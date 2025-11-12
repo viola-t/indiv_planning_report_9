@@ -1,5 +1,5 @@
 # indiv_planning_report
-for DSCI 100 group project 2025
+requirements
 
 (1) Data Description:
 Provide a full descriptive summary of the dataset, including information such as the number of observations, summary statistics (report values to 2 decimal places), number of variables, name and type of variables, what the variables mean, any issues you see in the data, any other potential issues related to things you cannot directly see, how the data were collected, etc. Make sure to use bullet point lists or tables to summarize the variables in an easy-to-understand format.
